@@ -1,0 +1,10 @@
+.app-background {
+  background-color: #EBCE9C;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; 
+  align-items: center; 
+  padding-top: 20px; 
+}
+

@@ -1,0 +1,26 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh; /* Adjust this value according to your needs */
+}
+
+.button{
+    background-color: #54cec8;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 24px;
+    margin: 0px 0px;
+    max-width: 40%;
+    max-height: 10vh;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #33cce0;
+}

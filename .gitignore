@@ -1,0 +1,34 @@
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Compiled output
+dist/
+build/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+#Google Drive
+desktop.ini
+
+#JPGs MKVs
+*.jpg
+*.mkv
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd

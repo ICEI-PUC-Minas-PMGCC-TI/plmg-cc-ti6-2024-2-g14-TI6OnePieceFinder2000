@@ -1,0 +1,40 @@
+.mainContainerStyle{
+    display: flex;
+    justify-content: center; 
+    align-items: flex-start;
+    background-color: #EBCE9C;
+    padding: 20px;
+    margin-top: 100px;
+    }
+    
+.imageStyle {
+    width: 300px; 
+    height: auto;
+    margin-right: 100px;
+    margin-top: 60px;
+}
+
+.posterContainerStyle {
+    position: relative;
+    display: inline-block;
+    width: 400px;
+    height: auto;
+}
+
+.posterStyle {
+    display: block;
+    width: 100%;
+    height: auto; 
+    z-index: 2;
+    position: relative;
+}
+
+.uploadedImageStyle {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 80%;
+    height: auto;
+    z-index: 1;
+    margin-top: 74px;
+}
